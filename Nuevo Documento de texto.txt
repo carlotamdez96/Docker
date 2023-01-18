@@ -1,0 +1,6 @@
+ejercicios docker y esto sera el repositiorio con git init
+ejercicio1 carpeta- usamos una rama
+ejercicioImagenes - usamos otra rama (.md,/assets,.pdf)
+
+--- subir a github
+No merge al main, hasta que se termine el ejercicioi
