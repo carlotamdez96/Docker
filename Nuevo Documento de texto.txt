@@ -4,3 +4,8 @@ ejercicioImagenes - usamos otra rama (.md,/assets,.pdf)
 
 --- subir a github
 No merge al main, hasta que se termine el ejercicioi
+
+git push origin rama2 ( no origin maini)
+
+
+en readme un enlace a los md de cada ejercicio
