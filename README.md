@@ -4,4 +4,4 @@
 
 [Ejercicio Imágenes](https://carlotamdez96.github.io/Docker/Ejercicio2Imagenes/Dockerimagenes.md)
 
-[Ejercicio Almacenamiento Docker](https://carlotamdez96.github.io/Docker/Ejercicio3Almacenamiento/AlmacenamientoDocker.md)
+[Ejercicio Almacenamiento Docker](https://github.com/carlotamdez96/Docker/blob/main/Ejercicio3Almacenamiento/AlmacenamientoDocker.md)
