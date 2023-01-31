@@ -7,4 +7,4 @@
 [Ejercicio Almacenamiento Docker](https://github.com/carlotamdez96/Docker/blob/main/Ejercicio3Almacenamiento/AlmacenamientoDocker.md)
 
 
-[Ejercicio Redes Docker](https://github.com/carlotamdez96/Docker/blob/main/Ejercicio4Redes/Redes Docker.md)
+[Ejercicio Redes Docker](https://github.com/carlotamdez96/Docker/blob/main/Ejercicio4Redes/RedesDocker.md)
